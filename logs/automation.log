@@ -1,0 +1,57 @@
+2024-09-22 11:01:52 INFO  WebDriverManager:1220 - Using chromedriver 129.0.6668.58 (resolved driver for Chrome 129)
+2024-09-22 11:01:52 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Akash Dake\.cache\selenium\chromedriver\win64\129.0.6668.58\chromedriver.exe
+2024-09-22 11:01:57 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 11:01:59 INFO  TC001_RegisterPage:29 - RegisterPage verify
+2024-09-22 13:10:54 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 13:10:56 INFO  TC001_RegisterPage:29 - RegisterPage verify
+2024-09-22 13:24:34 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 13:24:36 INFO  TC001_RegisterPage:29 - RegisterPage verify
+2024-09-22 13:37:57 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 13:37:59 INFO  TC001_RegisterPage:29 - RegisterPage verify
+2024-09-22 13:38:45 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 13:38:47 INFO  TC001_RegisterPage:29 - RegisterPage verify
+2024-09-22 13:44:12 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 13:44:15 INFO  TC001_RegisterPage:29 - RegisterPage verify
+2024-09-22 13:44:21 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 13:44:23 INFO  TC001_RegisterPage:29 - RegisterPage verify
+2024-09-22 13:46:59 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 13:47:01 INFO  TC001_RegisterPage:29 - RegisterPage verify
+2024-09-22 13:47:08 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 13:47:11 INFO  TC001_RegisterPage:29 - RegisterPage verify
+2024-09-22 13:47:17 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 13:47:19 INFO  TC001_RegisterPage:29 - RegisterPage verify
+2024-09-22 13:48:30 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 13:48:34 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 13:48:34 INFO  TC001_RegisterPage:29 - RegisterPage verify
+2024-09-22 13:48:35 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 13:48:36 INFO  TC001_RegisterPage:29 - RegisterPage verify
+2024-09-22 13:48:37 INFO  TC001_RegisterPage:29 - RegisterPage verify
+2024-09-22 13:49:58 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 13:50:00 INFO  TC001_RegisterPage:29 - RegisterPage verify
+2024-09-22 14:05:01 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 14:05:03 INFO  TC001_RegisterPage:29 - RegisterPage verify
+2024-09-22 16:33:45 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 16:33:50 INFO  TC001_RegisterPage:30 - RegisterPage verify
+2024-09-22 17:22:11 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 17:22:16 INFO  TC001_RegisterPage:30 - RegisterPage verify
+2024-09-22 17:37:35 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 17:37:43 INFO  TC001_RegisterPage:30 - RegisterPage verify
+2024-09-22 17:42:42 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 17:42:45 INFO  TC001_RegisterPage:30 - RegisterPage verify
+2024-09-22 17:46:29 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 17:46:33 INFO  TC001_RegisterPage:30 - RegisterPage verify
+2024-09-22 19:12:08 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 19:12:15 INFO  TC001_RegisterPage:30 - RegisterPage verify
+2024-09-22 19:14:26 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 19:14:30 INFO  TC001_RegisterPage:30 - RegisterPage verify
+2024-09-22 19:15:51 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 19:19:25 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 19:19:32 INFO  TC001_RegisterPage:30 - RegisterPage verify
+2024-09-22 19:25:32 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 19:25:36 INFO  TC001_RegisterPage:30 - RegisterPage verify
+2024-09-22 21:56:27 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 21:56:31 INFO  TC001_RegisterPage:30 - RegisterPage verify
+2024-09-22 22:30:45 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 22:30:53 INFO  TC001_RegisterPage:30 - RegisterPage verify
+2024-09-22 22:38:08 INFO  TC001_RegisterPage:17 - Start The Test Execution
+2024-09-22 22:38:15 INFO  TC001_RegisterPage:30 - RegisterPage verify
